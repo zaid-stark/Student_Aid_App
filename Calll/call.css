@@ -1,0 +1,19 @@
+.update{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.update_2{
+    margin-bottom: 30%;
+
+}
+.update_3{
+text-align: center;
+margin-bottom: 20px;
+}
+.navbar{
+    padding: 0px;
+}
+input , textarea{
+     border: 2px solid black  !important;
+    border-radius: 6px  !important;
+}
